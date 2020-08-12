@@ -6,6 +6,7 @@ import LoginPage from '../pages/Login';
 import RegisterPage from '../pages/Register';
 import Home from '../pages/Home';
 import ServiceDetail from '../pages/ServicesDetails';
+import Contact from '../pages/Contact';
 
 const { Navigator, Screen } = createStackNavigator();
 
@@ -63,6 +64,11 @@ function StackNavigator() {
           },
           headerTintColor: '#FFF',
         })}
+      />
+      <Screen 
+        name="Contact"
+        component={Contact}
+        options={headerStyles}
       />
     </Navigator>
   )

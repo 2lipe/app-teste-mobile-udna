@@ -1,5 +1,6 @@
 import React from 'react';
 import { View, FlatList, Text } from 'react-native';
+import { RectButton } from 'react-native-gesture-handler';
 
 import services from '../../assets/other/services.json';
 import ServiceCard from '../../components/ServicesCards';
@@ -27,7 +28,14 @@ const Home = props => {
             <Text style={styles.titleText}>Nossos serviços.</Text>
           </View>
         )}
-        ListFooterComponent={props => (<View style={styles.marginBottom} />)}
+        ListFooterComponent={() => (
+          <RectButton 
+            style={styles.button}
+            onPress={() => props.navigation.navigate('Contact')}
+          >
+            <Text style={styles.buttonText}>Entrar em contato</Text>
+          </RectButton>
+        )}
       />
     </View>
   )

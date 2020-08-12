@@ -15,9 +15,23 @@ const styles = StyleSheet.create({
       color: '#593d88',
     },
 
-    marginBottom: {
+    button: {
+      marginVertical: 20,
+      backgroundColor: '#04d361',
+      height: 58,
+      alignItems: 'center',
+      justifyContent: 'center',
+      borderRadius: 8,
       marginBottom: 10,
-    }
+      width: '80%',
+      alignSelf: 'center',
+    },
+  
+    buttonText: {
+      fontFamily: 'Archivo_700Bold',
+      color: '#FFF',
+      fontSize: 20,
+    },
 });
 
 export default styles;
