@@ -5,6 +5,7 @@ import Landing from '../pages/Landing';
 import LoginPage from '../pages/Login';
 import RegisterPage from '../pages/Register';
 import Home from '../pages/Home';
+import ServiceDetail from '../pages/ServicesDetails';
 
 const { Navigator, Screen } = createStackNavigator();
 
@@ -45,6 +46,23 @@ function StackNavigator() {
         name="Home"
         component={Home}
         options={headerStyles}
+      />
+      <Screen
+        name="ServiceDetail"
+        component={ServiceDetail}
+        options={({route}) => ({
+          title: route.params.service.title,
+          headerStyle: {
+            backgroundColor: '#593d88',
+          },
+          headerTitleAlign: 'center',
+          headerTitleStyle: {
+            color: '#FFF',
+            fontSize: 19,
+            fontFamily: 'Poppins_600SemiBold',
+          },
+          headerTintColor: '#FFF',
+        })}
       />
     </Navigator>
   )

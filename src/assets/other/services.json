@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Teste Rápido Covid-19",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C5622AQFlWo08DgQ4kw/feedshare-shrink_1280/0?e=1600300800&v=beta&t=amk5x48cLjX_3yyai4G1wVZqtLG30CsK6YgrcLshCio",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  },
+  {
+    "id": 2,
+    "title": "Exame de DNA",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C4D22AQGKBlKM5l4Lug/feedshare-shrink_2048_1536/0?e=1600300800&v=beta&t=N-UkzOL4IEW3ewRXsMuIZj7xX3pnFh5grorBFeHA6MY",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  },
+  {
+    "id": 3,
+    "title": "Teste de Paternidade",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C4D22AQF47fZI3rWsjg/feedshare-shrink_2048_1536/0?e=1600300800&v=beta&t=2VreLxDHN536PJ3N8g-mKzHnndBIx_q_uxsnROJPpOo",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  },
+  {
+    "id": 4,
+    "title": "Kit de autocoleta",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C4D22AQHTygiF5hZ14g/feedshare-shrink_800/0?e=1600300800&v=beta&t=51cBvW-PLkwICMwJOnZKgL62dV8E90OJap5g0WyeP-0",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  },
+  {
+    "id": 5,
+    "title": "Persona Sport",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C4D22AQHeX6BYoeHS4g/feedshare-shrink_800/0?e=1600300800&v=beta&t=RBJAOttjYH4k5LH1qW3o7R9nDXxVfP93OWmZNTOjZXA",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  },
+  {
+    "id": 6,
+    "title": "Persona Fitness",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C4D22AQHOrWNR4PT5yw/feedshare-shrink_800/0?e=1600300800&v=beta&t=kE-ssdAVJQ7knRxLY8Iexw0jwVG3MdidXziEuckDSUY",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  },
+  {
+    "id": 7,
+    "title": "Sorologia Igm e IgC",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C4D22AQHprRpR6i6qTA/feedshare-shrink_800/0?e=1600300800&v=beta&t=YUVoVBI_D0cDjXH11kWCQRlV7tMRg4HzXz2vIYcv2UE",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  },
+  {
+    "id": 8,
+    "title": "RT - PCR",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C4D22AQHn7gsq2_ew7w/feedshare-shrink_800/0?e=1600300800&v=beta&t=JHB0wUMhEpyrLNkaCIZPiqtHsubZms3fl0t1ezzG_jI",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  },
+  {
+    "id": 9,
+    "title": "Curiosidades",
+    "price": "R$XX,XX",
+    "img":
+    "https://media-exp1.licdn.com/dms/image/C4D22AQFPMJQwHAh-Bw/feedshare-shrink_800/0?e=1600300800&v=beta&t=2XkFD58wG6lqY-fh0LpKSHXSV2YsLkYAi-TK-VMPp0o",
+    "description":
+    "Aconselhável para pessoas com sintomas leves de COVID-19 há pelo menos 8 dias, preferencialmente a partir do 10º dia. Pessoas que tenha tido sintomas característicos de COVID-19 há algum tempo e queiram confirmar se a causa da infecção foi o novo coronavírus. Pessoas assintomáticas que tiveram em contato com casos suspeitos ou queiram saber se entraram em contato com o vírus em algum momento."
+  }
+]

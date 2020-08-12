@@ -3,11 +3,10 @@ import { NavigationContainer } from '@react-navigation/native';
 import { StatusBar } from 'react-native';
 import { AppLoading } from 'expo';
 
-import StackNavigation from './routes/StackNavigation';
+import AppNavigation from './routes/Navigation';
 
 import { Archivo_400Regular, Archivo_700Bold, useFonts } from '@expo-google-fonts/archivo';
 import { Poppins_400Regular, Poppins_600SemiBold } from '@expo-google-fonts/poppins';
-
 
 export default function App() {
   let [fontsLoaded] = useFonts({
@@ -25,7 +24,7 @@ export default function App() {
       <>
         <StatusBar style="light" />
         <NavigationContainer>
-          <StackNavigation />
+          <AppNavigation />
         </NavigationContainer>
       </>
     );
