@@ -74,4 +74,4 @@ pelo seu computador.
 ## Build do APK (irá expirar em 30 dias)
 
 - Android: [https://expo.io/artifacts/c9997ca6-a9d9-4332-9d59-e7f60726d4f3]
-- iOS: 
+- iOS(simulator): [https://expo.io/artifacts/c1909f67-f38b-4ba3-af80-69b7bdba11f5]
